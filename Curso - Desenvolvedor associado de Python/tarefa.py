@@ -60,7 +60,7 @@ def register_user(name, email, password):
         "email": email,
         "password": password
     }
-
+# Testes
 # Teste
 
 print(register_user("Maycon", "emailcerto@gmail.com", "Senha123"))
